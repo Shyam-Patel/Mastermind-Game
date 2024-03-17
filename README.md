@@ -17,5 +17,7 @@ Create a console application that is a simple version of the game "Mastermind"
 - Application will print 2 rows of signs: 1st row has the (+) signs, and 2nd row is the (-) signs
 - This requirement does not mean the application should print a single row with the (+) signs preceding the (-) signs, as this wouldn't clearly indicate the correlation between user input and the code
 
+![image](https://github.com/Shyam-Patel/Mastermind-Game/assets/15199803/8bf8451e-fe01-435d-a58a-45b9d492ef54)
+
 # Test Cases
-A series of unit test cases have been created to test the basic functionality of the application.
+Unit test cases have been created to test the basic functionality of the application.
