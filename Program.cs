@@ -1,10 +1,14 @@
-﻿namespace Mastermind_Game
+﻿namespace MastermindGame
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Welcome to Mastermind!");
+
+            var game = new Mastermind();
+            game.PrintRulesToConsole();
+            game.Play();
         }
     }
 }
