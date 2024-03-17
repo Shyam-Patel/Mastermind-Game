@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MastermindGame.Tests", "MastermindGame.Tests\MastermindGame.Tests.csproj", "{147753BD-D941-480A-B074-762E8AE2A6E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MastermindGame", "MastermindGame\MastermindGame.csproj", "{ECA15838-13D7-4F93-A20D-2C1A76B1A439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147753BD-D941-480A-B074-762E8AE2A6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147753BD-D941-480A-B074-762E8AE2A6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147753BD-D941-480A-B074-762E8AE2A6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147753BD-D941-480A-B074-762E8AE2A6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA15838-13D7-4F93-A20D-2C1A76B1A439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA15838-13D7-4F93-A20D-2C1A76B1A439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA15838-13D7-4F93-A20D-2C1A76B1A439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA15838-13D7-4F93-A20D-2C1A76B1A439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60C7CFE9-6C83-4CC5-BF95-1C4CCD77F2EC}
+	EndGlobalSection
+EndGlobal
