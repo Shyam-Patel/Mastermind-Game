@@ -21,3 +21,6 @@ Create a console application that is a simple version of the game "Mastermind"
 
 # Test Cases
 Unit test cases have been created to test the basic functionality of the application.
+
+![image](https://github.com/Shyam-Patel/Mastermind-Game/assets/15199803/5217613e-a2c1-4e91-bfa6-6fb767b15e85)
+
